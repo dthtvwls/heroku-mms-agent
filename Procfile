@@ -1,0 +1,1 @@
+worker: ./mongodb-mms-monitoring-agent
